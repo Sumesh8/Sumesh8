@@ -88,7 +88,7 @@ This project encompasses an intuitive interface for customers to order vegetable
 
 ## 📇 Contact Me
 - Email: kvsumeshakalanka@gmail.com
-- LinkedIn: Sumesh Akalanka
+- LinkedIn: www.linkedin.com/in/sumesh-akalanka
 - Phone: +94712712604
 
 
