@@ -1,4 +1,4 @@
-![github](https://github.com/user-attachments/assets/d3093fe0-22bd-4b21-99d7-33d7e0433815)
+![github](https://github.com/user-attachments/assets/1f9b4022-d84c-4bfe-99f5-2a66754d9c99)
 
 Welcome to the professional repository of Sumesh Akalanka, a dynamic and creative software engineer with a passion for delivering innovative solutions tailored to client needs.
 
