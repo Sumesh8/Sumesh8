@@ -77,8 +77,8 @@ This project encompasses an intuitive interface for customers to order vegetable
 
 - **Mode Details:** - [Click Here](https://github.com/Sumesh8/Vegetable_ordering_system)
 
-## 📫 How to reach me:
-- [LinkedIn: www.linkedin.com/in/sumesh-akalanka](www.linkedin.com/in/sumesh-akalanka)
+## 📇 Contact Me
+- Email: kvsumeshakalanka@gmail.com
 - [Email: kvsumeshakalanka@gmail.com](kvsumeshakalanka@gmail.com)
 - Phone: +94712712604
 
