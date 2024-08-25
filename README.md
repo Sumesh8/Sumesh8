@@ -1,6 +1,6 @@
-# Hi, I'm Sumesh Akalanka 👋
+![Profile Banner]![github](https://github.com/user-attachments/assets/d3093fe0-22bd-4b21-99d7-33d7e0433815)
 
-![Profile Banner](https://your-image-url.com/banner.png)
+# Hi, I'm Sumesh Akalanka 👋
 
 Welcome to the professional repository of Sumesh Akalanka, a dynamic and creative software engineer with a passion for delivering innovative solutions tailored to client needs.
 
