@@ -4,7 +4,7 @@ Welcome to the professional repository of Sumesh Akalanka, a dynamic and creativ
 
 📜 About Me
 
-I am a Software Engineer with a B.Sc. (Hons) in Computer Engineering from the Faculty of Engineering, University of Jaffna, Sri Lanka. My journey in the tech world has been fueled by a deep understanding of Object-Oriented Principles, Design Paradigms, Database Architecture, and Software Lifecycle Management.
+I am currently working as an Associate Software Engineer at Central Finance PLC, with a B.Sc. (Hons) in Computer Engineering from the Faculty of Engineering, University of Jaffna, Sri Lanka. My journey in the tech world has been fueled by a deep understanding of Full Stack Development.
 
 I bring a unique blend of expertise in backend and frontend development, mobile app development, and database management, ensuring seamless integration and functionality across all systems I work on.
 
