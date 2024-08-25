@@ -31,8 +31,7 @@ Technologies: Node.js (Express), React Native (Expo), MongoDB, Firebase
 
 Developed a mobile app with over 5000 users, offering users seamless event discovery and hosting. Key features include geofencing for location based notifications, smart ticketing, and real-time event recommendations. This project highlights my expertise in mobile app development and user-focused design.
 
-- **Mode Details:** - [Click Here](https://play.google.com/store/apps/detailsid=com.madhus
-anka .Kuubi&pcampaignid=web_share)
+- **Mode Details:** - [Click Here](https://play.google.com/store/apps/detailsid=com.madhusanka.Kuubi&pcampaignid=web_share)
 
 **3. Pick a Book Web App**
 
