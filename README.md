@@ -82,7 +82,7 @@ This project encompasses an intuitive interface for customers to order vegetable
 
 - **Mode Details:** - [Click Here](https://github.com/Sumesh8/Vegetable_ordering_system)
 
-## Awards & Recognition
+## 🏆 Awards & Recognition
 - Final 20 teams in Hackadev competition
 - Completed Hackadev new innovation camp
 
