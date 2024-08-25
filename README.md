@@ -1,4 +1,4 @@
-![Profile Banner]![github](https://github.com/user-attachments/assets/d3093fe0-22bd-4b21-99d7-33d7e0433815)
+![github](https://github.com/user-attachments/assets/d3093fe0-22bd-4b21-99d7-33d7e0433815)
 
 # Hi, I'm Sumesh Akalanka 👋
 
