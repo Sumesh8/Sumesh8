@@ -8,6 +8,11 @@ I am currently working as an Associate Software Engineer at Central Finance PLC,
 
 I bring a unique blend of expertise in backend and frontend development, mobile app development, and database management, ensuring seamless integration and functionality across all systems I work on.
 
+## 🎓 Education
+
+B.Sc. (Hons) in Computer Engineering
+Faculty of Engineering, University of Jaffna, Sri Lanka
+
 ## 🚀 Skills & Expertise
 
 - **Backend:** Spring Boot | Node.js (Express)
@@ -77,8 +82,14 @@ This project encompasses an intuitive interface for customers to order vegetable
 
 - **Mode Details:** - [Click Here](https://github.com/Sumesh8/Vegetable_ordering_system)
 
+## Awards & Recognition
+- Final 20 teams in Hackadev competition
+- Completed Hackadev new innovation camp
+
 ## 📇 Contact Me
 - Email: kvsumeshakalanka@gmail.com
-- [Email: kvsumeshakalanka@gmail.com](kvsumeshakalanka@gmail.com)
+- LinkedIn: Sumesh Akalanka
 - Phone: +94712712604
+
+
 
