@@ -28,7 +28,7 @@ Faculty of Engineering, University of Jaffna, Sri Lanka
 
 Technologies: Spring Boot | Angular | Oracle Database | AWS | Microservices
 
-Developed a microservices-based vehicle rental app, introducing innovative features such as Full Hire, Semi Hire, Budget Hire, Short Hire, and CF Assist for customer support. This project showcased my ability to architect and implement complex systems that deliver a premium user experience.
+Developed a microservices-based vehicle rental app, introducing innovative features such as Full Hire, Semi Hire, Budget Hire, Short Hire, and CF Assist for customer support. This project showcased my ability to architect and implement complex systems that deliver a premium user experience. It involved working with three microservices: CIF for customer management, vehicle fleet management, and the VH web app, ensuring seamless integration and functionality across the system.
 
 **2. Event Discovery & Management Mobile App (Ayuhasca)**
 
